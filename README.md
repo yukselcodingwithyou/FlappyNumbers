@@ -1,2 +1,2 @@
 # FlappyNumbers
-Flappy numbers game
+Flappy numbers game a hobby
